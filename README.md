@@ -178,7 +178,7 @@ The exports can be used as input datasets for:
 
 <div dir="rtl" align="right">
 
-<h2>🇮🇷 ۱۰ ـ معرفی فارسی</h2>
+<h2>🇮🇷  ـ معرفی فارسی</h2>
 
 <h3>🔵 معرفی برنامه</h3>
 
