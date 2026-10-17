@@ -20,8 +20,8 @@ from __future__ import annotations
 # ۱) تنها دو مقداری که برای هر ویدئو باید تنظیم کنید.
 # کلید API را خصوصی نگه دارید؛ این فایلِ حاوی کلید را عمومی منتشر نکنید.
 # ============================================================================
-API_KEY = "AIzaSyBlmwWwNwC9GlSwGdfdXPVYsocGcgYY2oU"  # Your own private key, or YOUTUBE_API_KEY env var
-VIDEO_URL_OR_ID = "https://www.youtube.com/watch?v=25AUCNZKEnY"
+API_KEY = "000000000000"  # Your own private key, or YOUTUBE_API_KEY env var
+VIDEO_URL_OR_ID = "https://www.youtube.com/watch?v=00000000"
 
 # ============================================================================
 # ۲) کتابخانه‌های داخلی پایتون؛ به نصب پکیج اضافه نیاز نیست.
